@@ -1,0 +1,8 @@
+# Ignore Jupyter Notebook checkpoint folders
+.ipynb_checkpoints/
+
+# Ignore autosave or temporary notebook files
+*.ipynb~
+
+# Ignore hidden Jupyter Notebook autosave files (just in case)
+.~*.ipynb
