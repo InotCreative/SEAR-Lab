@@ -1,0 +1,301 @@
+{
+    "system_id": 4986408,
+    "total_devices": 23,
+    "items": "devices",
+    "devices": {
+        "micros": [
+            {
+                "id": 90065230,
+                "last_report_at": 1745333599,
+                "name": "Microinverter 202236017701",
+                "serial_number": "202236017701",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065242,
+                "last_report_at": 1745333659,
+                "name": "Microinverter 202236017740",
+                "serial_number": "202236017740",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065243,
+                "last_report_at": 1745333690,
+                "name": "Microinverter 202236019380",
+                "serial_number": "202236019380",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065223,
+                "last_report_at": 1745333540,
+                "name": "Microinverter 202236020859",
+                "serial_number": "202236020859",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065220,
+                "last_report_at": 1745333721,
+                "name": "Microinverter 202236021569",
+                "serial_number": "202236021569",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065249,
+                "last_report_at": 1745333723,
+                "name": "Microinverter 202236021766",
+                "serial_number": "202236021766",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "power",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065227,
+                "last_report_at": 1745333724,
+                "name": "Microinverter 202236025132",
+                "serial_number": "202236025132",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065255,
+                "last_report_at": 1745333725,
+                "name": "Microinverter 202236029519",
+                "serial_number": "202236029519",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "power",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065226,
+                "last_report_at": 1745333727,
+                "name": "Microinverter 202236036432",
+                "serial_number": "202236036432",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065237,
+                "last_report_at": 1745333729,
+                "name": "Microinverter 202236036494",
+                "serial_number": "202236036494",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065246,
+                "last_report_at": 1745333730,
+                "name": "Microinverter 202236036616",
+                "serial_number": "202236036616",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065253,
+                "last_report_at": 1745333732,
+                "name": "Microinverter 202236036628",
+                "serial_number": "202236036628",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065250,
+                "last_report_at": 1745333607,
+                "name": "Microinverter 202236037240",
+                "serial_number": "202236037240",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065256,
+                "last_report_at": 1745333734,
+                "name": "Microinverter 202236038956",
+                "serial_number": "202236038956",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065239,
+                "last_report_at": 1745333736,
+                "name": "Microinverter 202236039153",
+                "serial_number": "202236039153",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "power",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065232,
+                "last_report_at": 1745333737,
+                "name": "Microinverter 202236039342",
+                "serial_number": "202236039342",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065221,
+                "last_report_at": 1745333759,
+                "name": "Microinverter 202236040219",
+                "serial_number": "202236040219",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065234,
+                "last_report_at": 1745333760,
+                "name": "Microinverter 202236040723",
+                "serial_number": "202236040723",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065229,
+                "last_report_at": 1745333790,
+                "name": "Microinverter 202236041205",
+                "serial_number": "202236041205",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            },
+            {
+                "id": 90065224,
+                "last_report_at": 1745333741,
+                "name": "Microinverter 202236041300",
+                "serial_number": "202236041300",
+                "part_number": "800-01331-r02",
+                "sku": "IQ8PLUS-72-2-US",
+                "model": "IQ8PLUS",
+                "status": "normal",
+                "active": true,
+                "product_name": "IQ8PLUS"
+            }
+        ],
+        "meters": [
+            {
+                "id": 97311326,
+                "last_report_at": null,
+                "name": "production",
+                "serial_number": "202430002288EIM1",
+                "part_number": "800-00663-r05",
+                "sku": null,
+                "model": "Envoy S",
+                "status": "normal",
+                "active": true,
+                "state": "enabled",
+                "config_type": "Production",
+                "product_name": "IQ Gateway"
+            },
+            {
+                "id": 97311327,
+                "last_report_at": 1742574900,
+                "name": "consumption",
+                "serial_number": "202430002288EIM2",
+                "part_number": "800-00663-r05",
+                "sku": null,
+                "model": "Envoy S",
+                "status": "normal",
+                "active": true,
+                "state": "enabled",
+                "config_type": "Total",
+                "product_name": "IQ Gateway"
+            }
+        ],
+        "gateways": [
+            {
+                "id": 203643987,
+                "last_report_at": 1745334257,
+                "name": "Gateway 202430002288",
+                "serial_number": "202430002288",
+                "part_number": "800-00663-r05",
+                "emu_sw_version": "D8.2.4345.240828 (3f3de0)",
+                "sku": "XA-ENV2-PCBA-4",
+                "model": "IQ Envoy",
+                "status": "normal",
+                "active": true,
+                "cellular_modem": {
+                    "imei": "N/A",
+                    "part_num": "N/A",
+                    "sku": "N/A",
+                    "plan_start_date": null,
+                    "plan_end_date": null
+                },
+                "product_name": "IQ Gateway"
+            }
+        ]
+    }
+}
